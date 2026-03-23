@@ -25,4 +25,4 @@ Assurez-vous qu’au moins une pensée est en attente dans votre inbox.
 
 Pour toute question, suggestion ou problème :
 
-**samuel.marson+unload@gmail.com**
+**unload.support@gmail.com**
